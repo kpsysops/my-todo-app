@@ -1,0 +1,4 @@
+prepare
+clean
+make
+Throgh out the trash
